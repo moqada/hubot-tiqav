@@ -6,9 +6,10 @@
 #   HUBOT_TIQAV_ERROR_MESSAGE - エラーが発生した場合のメッセージ
 #
 # Commands:
-#   hubot tiqav <query> - tiqavから <query> で検索した画像を返す。<query> がない場合はランダム。
+#   hubot tiqav - tiqav から画像をランダムで返す
+#   hubot tiqav <query> - tiqav から <query> で検索した画像を返す
 #
-# Author
+# Author:
 #   moqada
 
 module.exports = (robot) ->
