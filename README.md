@@ -1,5 +1,7 @@
 # hubot-tiqav
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/moqada/hubot-tiqav.svg)](https://greenkeeper.io/)
+
 tiqav の画像を返す hubot-scripts。
 
 ## Configuration
